@@ -1,4 +1,4 @@
-## I'm Yan, Backend developer from Almaty, Kazakhstan.
+## 
 
 ### Skills:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,3 +18,5 @@
 <a href="https://t.me/wiacze" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="36" height="36" alt="Telegram" /></a>
 <a href="https://discordapp.com/users/441149722036797441/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="36" height="36" alt="Discord" /></a>
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wiacze&hide=contribs&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
