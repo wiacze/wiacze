@@ -1,4 +1,4 @@
-## I'm Yan, Backend Developer from Almaty, Kazakhstan.
+## I'm Yan, Backend Developer from Almaty.
 
 ### Skills:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
