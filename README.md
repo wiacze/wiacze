@@ -1,4 +1,4 @@
-## 
+## I'm Yan, Backend Developer from Almaty, Kazakhstan.
 
 ### Skills:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -17,6 +17,7 @@
 <a href="https://github.com/wiacze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/ac3d4bd1bb225c32c123be2042f674d86bff29ea/icons/github.svg" width="36" height="36" alt="GitHub" /></a>
 <a href="https://t.me/wiacze" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="36" height="36" alt="Telegram" /></a>
 <a href="https://discordapp.com/users/441149722036797441/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="36" height="36" alt="Discord" /></a>
+<a href="mailto:yan.yazykoff@ya.ru" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="36" height="36" alt="YaMail" /></a>
 </p>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wiacze&hide=contribs&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
