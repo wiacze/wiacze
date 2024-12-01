@@ -20,3 +20,4 @@
 <a href="mailto:yan.yazykoff@ya.ru" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="36" height="36" alt="YaMail" /></a>
 </p>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wiacze&hide=contribs&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
