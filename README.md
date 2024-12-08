@@ -6,7 +6,7 @@
 - 🎧 Love music and want to work on a streaming audio service *(some day...)*;
 - ✨ Dream of moving to Moscow.
 - 🌐 Comfortable language of communication: RU
-- <!-- - 💻 Right now I’m working on several pet projects, which I will soon publish on GitHub -->
+<!-- - 💻 Right now I’m working on several pet projects, which I will soon publish on GitHub -->
 
 #### I am looking for a job in an office in Almaty or **remotely anywhere**.
 
