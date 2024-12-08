@@ -44,4 +44,4 @@
 </p>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wiacze&hide=contribs&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wiacze&hide=contribs&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
